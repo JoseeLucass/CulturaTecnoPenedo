@@ -1,0 +1,33 @@
+.cabecalho{
+margin-top: 60px;
+}
+
+.cabecalhoTitulo{
+display: flex;
+flex-direction: column;
+align-items: center;
+font-family:'Lucida Sans Unicode', sans-serif;
+color:#444;
+}
+
+.cabecalhoTituloCima{
+
+position:absolute;
+top: 18%;
+font-size: 20px;
+}
+
+.cabecalhoTituloBaixo{
+
+position:absolute;
+top: 21%;
+font-size: 100px;
+}
+
+.cabecalhoImg{
+
+    width: 100%;
+    height: 450px;
+    margin-top: 80px;
+    object-fit: cover;
+}

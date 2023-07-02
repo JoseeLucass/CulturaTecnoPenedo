@@ -1,0 +1,75 @@
+.topo {
+
+width: 100%;
+height: 60px;
+background-color:rgb(0, 0, 0);
+position: absolute;
+top: 0px;
+display: flex;
+align-items:center;
+font-family:'Lucida Sans', sans-serif;
+}
+
+
+.topoLista {
+
+display: flex;
+justify-content: center;
+margin: 0;
+list-style:none;
+}
+
+.topoListaItem{
+
+margin-right: 22px;
+font-size: 25px;
+font-weight: 300;
+cursor: pointer;
+border-radius: 10px;
+height: 23px;
+}
+
+
+.topoCentro{
+flex: 0;
+}
+
+.topoEsquerda, .topoDireita{
+flex:10;
+display: flex;
+align-items: center;
+justify-content: flex-end;
+}
+
+.topImg{
+Width: 50px;
+height: 50px;
+border-radius: 50%;
+object-fit: cover;
+}
+
+.li a{
+    margin-right:  20px;
+    font-size: 18px;
+    font-weight: 300;
+    cursor:pointer;
+}
+
+
+.topoDireitalogin {
+
+    flex: 10 1;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+
+}
+
+.topoListaItem:hover{
+cursor: pointer;
+background: #03f517c9;
+}
+
+li {
+    list-style-type: none;
+  }
