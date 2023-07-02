@@ -14,7 +14,6 @@ A realidade aumentada é uma tecnologia que combina elementos virtuais com o amb
 
 # Tecnologias utilizadas
 ## Back end
-- Java
 - A-Frame 
 ## Front end
 - HTML / CSS / JS / 
