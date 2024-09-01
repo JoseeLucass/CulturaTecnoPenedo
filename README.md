@@ -18,25 +18,27 @@ As imagens fornecidas mostram o design da interface do site, que combina element
 
 ### Tecnologias Utilizadas
 
-**Back End:**
+**Back-End:**
 - **A-Frame:** Um framework web para construir experiências de realidade virtual (VR) e aumentada (AR). Facilita a criação de ambientes virtuais imersivos e interativos que podem ser acessados diretamente no navegador.
+- JavaScript: Utilizado para a criação de scripts que rodam vídeos de forma automática. 
 
-**Front End:**
+**Front-End:**
 - **HTML / CSS / JavaScript:** Tecnologias fundamentais para o desenvolvimento de páginas web, garantindo que a estrutura, o estilo e a funcionalidade do site sejam bem definidos.
 - **ReactJS:** Uma biblioteca JavaScript para construir interfaces de usuário, permitindo uma atualização eficiente e dinâmica das interfaces web.
 
 **Implantação em Produção:**
 - **Vercel:** Uma plataforma de implantação para aplicações front end que permite uma integração contínua e uma entrega rápida. É ideal para projetos baseados em JavaScript e frameworks modernos como ReactJS.
 
-### Front End Web
+### Front-End Web  
 
 **Pré-requisitos:**
 - **npm / yarn:** Gerenciadores de pacotes necessários para instalar e gerenciar dependências do projeto, como bibliotecas e frameworks.
 
 ### Autores
+O projeto foi desenvolvido por:
 
-- **[Elmo Araujo Filho](https://github.com/elmoaraujo)** 
-- **[José Lucas Bispo Dos Santos](https://github.com/JoseeLucass)** 
+- **``Elmo Araujo Filho``** 
+- **``José Lucas Bispo dos Santos``** 
 
 ### Considerações Adicionais
 
