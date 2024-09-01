@@ -3,7 +3,7 @@
 **Descrição:** CulturaTecnoPenedo é um projeto inovador que visa integrar a rica herança cultural de Penedo com as mais recentes tecnologias digitais. O objetivo é criar uma plataforma interativa que permita aos usuários explorar e experimentar a cultura local de maneira envolvente e moderna.
 
 ### Layout Web
-
+ 
 As imagens fornecidas mostram o design da interface do site, que combina elementos visuais atraentes com uma navegação intuitiva. A apresentação visual é fundamental para proporcionar uma experiência de usuário fluida e envolvente.
 
 ![cultura-tecno-penedo-git-main-joseelucass vercel app_](https://github.com/JoseeLucass/CulturaTecnoPenedo/assets/131500108/c8fc62ef-8bfc-4853-825d-c82899022042)
