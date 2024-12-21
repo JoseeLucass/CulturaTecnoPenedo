@@ -16,7 +16,7 @@ import Saogoncalo from "./paginas/historia/saogoncalo";
 import Casapenedo from "./paginas/historia/casapenedo";
 import Casaaposen from "./paginas/historia/casaaposen";
 import Igrejaanjos from "./paginas/historia/igrejaanjos"
-import Igrejarosario from "./paginas/historia/igrejarosari";
+import Igrejarosario from "./paginas/historia/igrejarosari"; 
 import {BrowserRouter as Router,Route,Routes} from "react-router-dom"
 
 
@@ -42,8 +42,7 @@ export default function App(){
         <Route exact path="/" element={<Inicial />} />
         <Route exact path="/sobre" element={<Sobre/>} />
         <Route exact path="/card" element={<Card />} />
-       
-        
+                
         <Route exact path="/igrejadascorrentes" element={<Igrejadascorrentes />} />
         <Route exact path="/museupacoimperial" element={<Museupacoimperial />} />
         <Route exact path= "/teatrosetembro" element={< Teatrosetembro/>} />

@@ -9,7 +9,7 @@ import inicial1 from "../../imagens/igreja-das-correntes.png";
 export default function iinicial(){
 
   const handleButtonClick = () => {
-    window.location.href = "https://culturatecnopenedo-realidade-aumentada.vercel.app/"; // Definindo a URL para redirecionar o usuário
+    window.location.href = "https://culturatecnopenedo-realidade-aumentada.vercel.app/"; 
   };
 
   return (
