@@ -30,28 +30,24 @@ export default function BarraTopo() {
 
                     <Link to="/">
                     
-                    <li className="topoListaItem"><FcHome/></li>
+                    <li className="topoListaItem"><p>Início</p></li>
                     </Link>
 
                     <Link to="/card">
-                    <li className="topoListaItem"><FcReading/></li>
+                    <li className="topoListaItem"><p>Pontos Turisticos</p></li>
                     </Link>
 
                     <Link to="/sobre">
-                    <li className="topoListaItem"><FcAbout/></li>
+                    <li className="topoListaItem"><p>Instruções</p></li>
                     </Link>
 
                     <Link to onClick={handleButtonClick}>
-                    <li className="topoListaItem"><FcIntegratedWebcam/></li>
+                    <li className="topoListaItem"><p>Realidade Aumentada</p></li>
                     </Link>
                     
-                    <Link to="/">
-                   <li className="topoListaItem" onClick={voltarPaginaAnterior}>
-                   <FcUndo/>
-                   </li>
-                   </Link>
                   
-                    
+                  
+   
                 </ul>
             </div>
 

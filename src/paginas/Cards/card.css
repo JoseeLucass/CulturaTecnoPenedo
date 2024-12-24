@@ -70,7 +70,7 @@
     margin: 0 auto;
   }
   
-  /* Card Footer */
+ 
   .card-footer {
     margin-top: 10px;
     text-align: center;
@@ -87,117 +87,6 @@
     font-weight: 600;
   }
   
-  /* Cores Cards */
-  .card-1 .card-footer {
-    background-color:  #000000;
-  }
-  
-  .card-1 .card-local {
-    color:  #000000;
-  }
-  
-  .card-2 .card-footer {
-    background-color:  #000000;
-  }
-  
-  .card-2 .card-local {
-    color:  #000000;;
-  }
-  
-  .card-3 .card-footer {
-    background-color:  #000000;;
-  }
-  
-  .card-3 .card-local {
-    color:  #000000;;
-  }
-
-  .card-4 .card-footer {
-    background-color:   #000000;;
-  }
-  
-  .card-4 .card-local {
-    color:  #000000;;
-  }
-
-  .card-5 .card-footer {
-    background-color:  #000000;;
-  }
-  
-  .card-5 .card-local {
-    color:  #000000;;
-  }
-
-  .card-6 .card-footer {
-    background-color:  #000000;;
-  }
-  
-  .card-6 .card-local {
-    color:  #000000;;
-  }
-  
-  .card-7 .card-footer {
-    background-color:  #000000;;
-  }
-  
-  .card-7 .card-local {
-    color:  #000000;;
-  }
-  
-
-  .card-8 .card-footer {
-    background-color:  #000000;;
-  }
-  
-  .card-8 .card-local {
-    color: #000000;;
-  }
-
-
-  .card-9 .card-footer {
-    background-color:  #000000;;
-  }
-  
-  .card-9 .card-local {
-    color:  #000000;;
-  }
-
-  .card-10 .card-footer {
-    background-color:  #000000;;
-  }
-  
-  .card-10 .card-local {
-    color:  #000000;;
-  }
-
-  .card-11 .card-footer {
-    background-color: #000000;;
-  }
-  
-  .card-11 .card-local {
-    color:  #000000;
-  }
-
-  .card-12 .card-footer {
-    background-color: #000000;;
-  }
-  
-  .card-12 .card-local {
-    color:   #000000;;
-  }
-
-
-  .card-13 .card-footer {
-    background-color:  #000000;;
-  }
-  
-  .card-13 .card-local {
-    color:  #000000;;
-  }
-
-
-
-  /* Animação Hover */
   .card:hover {
     transform: scale3d(1.1, 1.1, 1);
   }
@@ -218,3 +107,4 @@
     margin-bottom: 100px
 
   }
+  

@@ -11,19 +11,6 @@ footer{
     
 }
 
-
-.button-footer{
-    display: inline-block;
-    padding: 15px 70px;
-    background-color: var(--color-button);
-    border-radius: 50px;
-    color: var(--color-font);
-    text-transform: uppercase;
-    font-weight: bold;
-    text-decoration: none;
-    margin-top: -40px;
-}
-
 footer p{
     color: var(--color-font);
     font-size: 14px;
