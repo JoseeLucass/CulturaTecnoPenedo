@@ -1,5 +1,5 @@
 import React from 'react';
-import Card from '../../componentes/card/card1';
+import Card from '../../componentes/card/card';
 import '../../componentes/card/card.css';
 import igrejadascorrentes from '../../imagens/igreja-das-correntes.png';
 import museupacoimperial from '../../imagens/museupacoimperial.png';
