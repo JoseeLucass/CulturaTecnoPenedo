@@ -1,7 +1,4 @@
-
-import AreaPostagem from "../../componentes/areaPostagem/Areapostagem";
 import "./sobre.css";
-
 
 
 export default function Sobre(){
@@ -21,12 +18,7 @@ export default function Sobre(){
     esses conteúdos de RA em um espaço tridimensional, definindo sua posição e orientação. Cada 
     conteúdo poderá ter informações associadas, como descrição, conteúdo relacionado e informações 
     de interação.</p>
-
     
-    <div className="posts">
-        <AreaPostagem />
-       
-       </div>
 </div> 
 
 

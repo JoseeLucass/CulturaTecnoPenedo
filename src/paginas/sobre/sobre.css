@@ -11,20 +11,7 @@
         flex-wrap: nowrap;
         align-items: center;
         }
-    
-      
-  
-
-
-
-
-
-
-
-
-
         @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
-
 
 a {color: aliceblue;text-decoration: none;}
 
@@ -61,11 +48,7 @@ header .logo{
 .action-title h2{text-align: justify;font-size: 21px;color: var(--color-font);}
 
 
-
-
 @media (max-width: 420px){
-    
-
 
     .action-title{
         font-size: 20px;
