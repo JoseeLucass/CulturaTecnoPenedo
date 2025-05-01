@@ -3,7 +3,7 @@ import Rodape from "./componentes/rodape/Rodape";
 import Inicial from "./paginas/inicial/inicial";
 import Barratopo from "./componentes/barratopo/BarraTopo";
 import Sobre from "./paginas/sobre/Sobre";
-import Card from "./paginas/Cards/card";
+import Card from "./paginas/pontosturisticos/card";
 import Igrejadascorrentes from "./paginas/historia/igrejadascorrentes";
 import Teatrosetembro from "./paginas/historia/teatrosetembro";
 import Forterocheira from "./paginas/historia/forterocheira";
@@ -42,7 +42,7 @@ export default function App(){
         <Route exact path="/" element={<Inicial />} />
         <Route exact path="/sobre" element={<Sobre/>} />
         <Route exact path="/card" element={<Card />} />
-                
+     
         <Route exact path="/igrejadascorrentes" element={<Igrejadascorrentes />} />
         <Route exact path="/museupacoimperial" element={<Museupacoimperial />} />
         <Route exact path= "/teatrosetembro" element={< Teatrosetembro/>} />
