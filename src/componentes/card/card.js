@@ -11,8 +11,12 @@ const Card = ({ image, alt, title, description, link }) => (
     </div>
     <div className="card-footer">
       <a href={link}>Ver Mais</a>
+      <a  onClick={handleButtonClick}>Ir para RA</a>
     </div>
   </div>
 );
 
+const handleButtonClick = () => {
+  window.location.href = "https://culturatecnopenedo-realidade-aumentada.vercel.app/"; 
+};
 export default Card;

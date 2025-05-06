@@ -1,7 +1,7 @@
 
 import Rodape from "./componentes/rodape/Rodape";
 import Inicial from "./paginas/inicial/inicial";
-import Barratopo from "./componentes/barratopo/BarraTopo";
+import Barratopo from "./componentes/barratopo/barratopo";
 import Sobre from "./paginas/sobre/Sobre";
 import Card from "./paginas/pontosturisticos/card";
 import Igrejadascorrentes from "./paginas/historia/igrejadascorrentes";

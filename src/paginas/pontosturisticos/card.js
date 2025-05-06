@@ -20,8 +20,8 @@ const CardList = () => (
     <br />
     <br />
     <article>
-      <section className="section-4 container4">
-        <div className="container4">
+      <section className="section container">
+        <div className="container">
           {cardData.map((card, index) => (
             <Card
               key={index}
