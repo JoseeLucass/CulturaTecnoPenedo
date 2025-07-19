@@ -14,7 +14,7 @@ const InstrucoesRA = () => {
         Os marcadores estão disponíveis online. Clique no botão abaixo para visualizá-los:
       </p>
       <div className="botao-centro">
-        <a href="/marcadores" className="botao" target="_blank" rel="noopener noreferrer">
+        <a href="https://mega.nz/folder/8TtlmR5Y#EIh4p5lbGxSa5_mnfsDIdA" className="botao" target="_blank" rel="noopener noreferrer">
           Ver Marcadores
         </a>
       </div>
