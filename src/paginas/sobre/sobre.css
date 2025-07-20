@@ -1,10 +1,3 @@
-
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
 .instrucoes-container {
   max-width: 900px;
   margin: 40px auto;
@@ -39,7 +32,9 @@
 }
 
 .botao-centro {
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin: 20px 0;
 }
 
@@ -53,6 +48,10 @@
   border: none;
   border-radius: 8px;
   transition: background-color 0.3s ease;
+  cursor: pointer;
+  max-width: 220px;
+  width: 100%;
+  text-align: center;
 }
 
 .botao:hover {
@@ -81,9 +80,7 @@
   }
 
   .botao {
-    width: 100%;
-    display: inline-block;
-    padding: 14px;
     font-size: 1rem;
+    padding: 14px 20px;
   }
 }
